@@ -1,0 +1,47 @@
+{
+	"ImportPath": "github.com/calebthompson/pgf",
+	"GoVersion": "go1.5.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/go-kami/tree",
+			"Rev": "63332af05d298643a3f52ca46788d6848a572c65"
+		},
+		{
+			"ImportPath": "github.com/guregu/kami",
+			"Comment": "v1.2-1-gea08854",
+			"Rev": "ea088546fd7411cf3382c2bc1a0e584ba11589ab"
+		},
+		{
+			"ImportPath": "github.com/julienschmidt/httprouter",
+			"Comment": "v1.1-5-g109e267",
+			"Rev": "109e267447e95ad1bb48b758e40dd7453eb7b039"
+		},
+		{
+			"ImportPath": "github.com/zenazn/goji/bind",
+			"Comment": "v0.9.0-29-g46b46e0",
+			"Rev": "46b46e00f46dda650e04f0bceeb7c40732cd5988"
+		},
+		{
+			"ImportPath": "github.com/zenazn/goji/graceful",
+			"Comment": "v0.9.0-29-g46b46e0",
+			"Rev": "46b46e00f46dda650e04f0bceeb7c40732cd5988"
+		},
+		{
+			"ImportPath": "github.com/zenazn/goji/web/mutil",
+			"Comment": "v0.9.0-29-g46b46e0",
+			"Rev": "46b46e00f46dda650e04f0bceeb7c40732cd5988"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/cast5",
+			"Rev": "aedad9a179ec1ea11b7064c57cbc6dc30d7724ec"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/openpgp",
+			"Rev": "aedad9a179ec1ea11b7064c57cbc6dc30d7724ec"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "db8e4de5b2d6653f66aea53094624468caad15d2"
+		}
+	]
+}

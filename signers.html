@@ -1,0 +1,14 @@
+{{define "T"}}
+<ul>
+{{range $name, $signatures := .}}
+	<li>
+		{{$name}}
+		<ul>
+		{{range $idx, $sig := $signatures}}
+		<li>{{$sig}}</li>
+		{{end}}
+		</ul>
+	</li>
+{{end}}
+</ul>
+{{end}}
